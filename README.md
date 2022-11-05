@@ -29,5 +29,19 @@ Q5: Can I take the market cap as the only measure?         Is it always accurat
 
 Though Assurant has the least market cap across market, It is highly recommended for short term and offers a decent divided yield for long term investment.
 
+Project walkthrough:
+1- Data understanding
+2- Data gathering
+3- Creating logical design (DWH model)
+4- Physical design (Create tables on DBMS)
+5- Import data on database
+6- Building queries to answer the questions
+7- Import files into power BI to build interactive dashboard
+Technologies Used In Project :
+▪ Microsoft Excel (using to import data from web and cleaning data)
+▪ SQL developer (to create physical design for tables and queries)- Analytical Sql
+▪ Power BI (Data visualization)
+
+
 
 
